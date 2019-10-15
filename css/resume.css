@@ -1,6 +1,5 @@
 html, button, input, select, textarea {
     color: #444;
-    
 }
 
 
@@ -11,7 +10,6 @@ html {
 }
 
 header {
-    
     border: 1px solid #cccccc;
     border-radius:3px;
 }
